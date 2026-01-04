@@ -16,7 +16,7 @@ Student of BS Artificial Intelligence in FAST NUCES, Islamabad. Possess an unbri
 
 <br />
 
-Skills: Python | C/C++ | Artificial Intelligence | Natural Language Processing | Deep Learning | Machine Learning | Artificial Neural Networks | Knowledge Representation & Reasoning | React | HTML | Javascript. <br />
+Skills: Python | C/C++ | Artificial Intelligence | Natural Language Processing | Deep Learning | Computer Vision| Generative AI | Machine Learning | Artificial Neural Networks | Knowledge Representation & Reasoning | React | HTML | Javascript. <br />
 
 <br />
 
@@ -26,6 +26,8 @@ Skills: Python | C/C++ | Artificial Intelligence | Natural Language Processing |
 2. Natural Language Processing <br />
 3. Knowledge Representation & Reasoning <br />
 4. Machine Learning <br />
+5. Computer Vision <br />
+6. Generative AI <br />
 
 <br />
 
